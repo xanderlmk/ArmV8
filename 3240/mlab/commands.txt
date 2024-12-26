@@ -1,0 +1,9 @@
+ ## compile and link ##
+
+gcc -Wall -O0 -c -o main.o main.c
+
+gcc -Wall -O0 -o main.out main.o hanoi.o
+
+
+x/4db &badger
+
